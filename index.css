@@ -1,0 +1,53 @@
+.header-logo img {
+	border-radius: 50%;
+}
+.navbar-brand {
+	font-size: 40px;
+	float: left;
+	margin-top: 5px;
+	padding-left: 30px;
+	font-weight: 700;
+}
+.navfont {
+	font-size: 17px;
+	font-family: "Courier New", Courier, monospace;
+	padding-top: 20px;
+}
+.active {
+	margin-left: 250px;
+}
+.id {
+	text-align: center;
+	background: whitesmoke;
+	height: 270px;
+	width: 80%;
+	box-shadow: 10px 10px 10px 10px dimgray;
+	margin: 50px 0px 0px 0px;
+	border-radius: 30px;
+}
+.bg {
+	/* background-color: orange; */
+	background-image: url(bg4.png);
+	border-radius: 10px;
+	box-shadow: 3px;
+}
+.fo1 {
+	font-weight: 30;
+	font-size: 30px;
+	padding-left: 40px;
+}
+.d1 {
+	width: 50%;
+	float: left;
+	font-size: 30px;
+	margin-top: 20px;
+}
+.d2 {
+	width: 50%;
+	float: right;
+	font-size: 30px;
+	margin-top: 20px;
+}
+footer {
+	background: gray;
+}
